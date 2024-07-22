@@ -1,0 +1,13 @@
+.text {
+  color: black;
+}
+@media (max-width: 991px) {
+  .navbar-nav {
+    display: none;
+  }
+}
+@media (max-width: 580px) {
+  .Thumbnail {
+    display: none;
+  }
+}
